@@ -2,4 +2,7 @@
 
 A template for React, TypeScript, and Tailwind.
 
-`npm install`
+```
+npm install
+npm run dev
+```
